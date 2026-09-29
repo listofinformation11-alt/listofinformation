@@ -1,0 +1,7 @@
+*.sql
+*.sql.gz
+.env
+node_modules/
+localdb/
+*.log
+site/
